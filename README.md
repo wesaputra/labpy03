@@ -1,4 +1,4 @@
-# labpy03
+# Labpy03
 
 
 # Latihan 1
@@ -36,6 +36,11 @@
   3. *import random* Untuk pengulangan secara acak
   4. *for i in range (jumlah) :* Untuk Pengulangan dengan range jumlah
   5. *print (" Data ke -> ", 1+i, "=",(random.uniform(0.1,0.5)))* Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5
+
+## Hasil Program
+
+![latihan 1 py hasil](https://user-images.githubusercontent.com/46749030/53199405-94e81780-3651-11e9-8125-2c1b57d33a3e.jpg)
+
 
 #
 #
@@ -82,6 +87,10 @@
   5. *if max < x:* jika max kurang dari x maka max = x
   6. *if x==0: break* jika x= 0 maka akan berhenti dengan syarat break yang terpenuhi
   7. print ("Bilangan Terbesar Adalah : ", max) Menampilkan *Bilangan Terbesar Adalah : Nilai maxiumnya
+
+## Hasil Program
+
+![latihan 2 hasil](https://user-images.githubusercontent.com/46749030/53199408-96194480-3651-11e9-9217-bbba87003acb.jpg)
 
 #
 #
@@ -143,6 +152,11 @@
   5. *y=[A,B,C,D,E,F,G,H]* untuk menentukan syarat y= yang berisi A,B,C,D,E,F,G,H
   6. *for i in range (len(y)): print (" Keuntungan Bulan ke ",i+1 , "-> ", y[i])* untuk perulangan data dengan isi data yaitu Y dengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke untukan yang di inpput dari data Y
   7. *x= (A+B+C+D+E+F+G+H) print (" Jumlah Keuntungan Selama 8 Bulan Adalah :",x)* x berisi data penjumlahan data angka yang ada didalam kode A,B,C,D,E,F,G,H yang akan di tampilakan atau dicetak di jumlah laba selama 8 bulan
+
+## Hasil Program
+
+![program 1 py hasil](https://user-images.githubusercontent.com/46749030/53199412-97e30800-3651-11e9-8ea3-e42577580471.jpg)
+
 
 #
 # NAMA  : WAHYU EKA SAPUTRA
