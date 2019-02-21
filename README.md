@@ -1,4 +1,4 @@
-## labpy03
+# labpy03
 
 
 # Latihan 1
@@ -14,11 +14,11 @@
   
     Setelah kita membuat Algoritma tersebut Maka Langkah selanjutnya membuat Flowchart program Menampilkan Bilangan Acak Yang Lebih Kecil Dari 0.5.
     
-# Flowchart Program
+## Flowchart Program
 
 ![latihan 1](https://user-images.githubusercontent.com/46749030/53195089-7d0b9600-3647-11e9-8ac9-a25c55b5c13b.jpg)
 
-# Program Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
+## Program Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
 
 ![latihan 1 py](https://user-images.githubusercontent.com/46749030/53195284-eab7c200-3647-11e9-9a96-6ef2530dd221.jpg)
 
@@ -29,7 +29,7 @@
         print (" Data ke -> ", 1+i, "=",(random.uniform(0.1,0.5)))
     print ("  SELESAI  ")
 
-# Penjelasan Program
+## Penjelasan Program
 
   1. *print ('Menampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')* Untuk Menampilkan atau Mencetak kalimat *Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5
   2. *jumlah =int (input( " Masukan Jumlah n : "))* Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
@@ -37,8 +37,8 @@
   4. *for i in range (jumlah) :* Untuk Pengulangan dengan range jumlah
   5. *print (" Data ke -> ", 1+i, "=",(random.uniform(0.1,0.5)))* Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5
 
-
-
+#
+#
 
 # Latihan 2
 
@@ -55,11 +55,11 @@
 
   Setelah kita membuat Algoritma tersebut Maka Langkah selanjutnya membuat Flowchart program Sederhana Untuk Menampilkan bilangan Terbesar dari n buah data yang di Masukkan 
   
-# Flowchart Program
+## Flowchart Program
 
 ![latihan 2](https://user-images.githubusercontent.com/46749030/53196316-5ef36500-364a-11e9-9c6f-8bb4174578f2.jpg)
 
-# Program Sederhana Untuk Menampilkan bilangan Terbesar dari n buah data yang di Masukkan 
+## Program Sederhana Untuk Menampilkan bilangan Terbesar dari n buah data yang di Masukkan 
 
 ![latihan 2 py](https://user-images.githubusercontent.com/46749030/53196363-7d596080-364a-11e9-9fcd-c6c55a4b2524.jpg)
 
@@ -73,7 +73,7 @@
             break
     print ("Bilangan Terbesar Adalah : ", max)
     
-# Penjelasan program
+## Penjelasan program
 
   1. *print (' Bilangan Terbesar Dari n Buah Data Yang Dimasukan ')* Untuk menampilkan kalimat Menampilkan Bilangan Terbesar Dari n Buah Data Yang Diinputkan
   2. *max = 0* kode max disini untuk menentukan nilai max nya dalah 0
@@ -83,8 +83,8 @@
   6. *if x==0: break* jika x= 0 maka akan berhenti dengan syarat break yang terpenuhi
   7. print ("Bilangan Terbesar Adalah : ", max) Menampilkan *Bilangan Terbesar Adalah : Nilai maxiumnya
 
-
-
+#
+#
 
 # Program 1
 
@@ -102,11 +102,11 @@
   7.	Print (“ Jumlah Keuntungan Selama 8 Bulan Adalah :”)
   8.	Finish
   
-# Flowchart Program 
+## Flowchart Program 
   
 ![program 3](https://user-images.githubusercontent.com/46749030/53197508-f8237b00-364c-11e9-8ff2-2e59bb2dc598.jpg)
   
-# Program Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan
+## Program Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan
 
 ![program 1 py](https://user-images.githubusercontent.com/46749030/53197700-4b95c900-364d-11e9-8510-fc0212365b4c.jpg)
 
@@ -134,7 +134,7 @@
     x= (A+B+C+D+E+F+G+H)
     print (" Jumlah Keuntungan Selama 8 Bulan Adalah :",x)
     
-# Penjelasan Program
+## Penjelasan Program
 
   1. *print ( 'Total Keuntungan Selama 8 Bulan Berjalannya Usaha' )* Untuk Menampilkan kalimat Total Keuntungan Selama 8 Bulan Berjalannya Usaha
   2. *n=100000000* Dengan pemisalan atau dideklarasikan n adalah 100000000
@@ -143,7 +143,8 @@
   5. *y=[A,B,C,D,E,F,G,H]* untuk menentukan syarat y= yang berisi A,B,C,D,E,F,G,H
   6. *for i in range (len(y)): print (" Keuntungan Bulan ke ",i+1 , "-> ", y[i])* untuk perulangan data dengan isi data yaitu Y dengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke untukan yang di inpput dari data Y
   7. *x= (A+B+C+D+E+F+G+H) print (" Jumlah Keuntungan Selama 8 Bulan Adalah :",x)* x berisi data penjumlahan data angka yang ada didalam kode A,B,C,D,E,F,G,H yang akan di tampilakan atau dicetak di jumlah laba selama 8 bulan
-  
+
+#
 # NAMA  : WAHYU EKA SAPUTRA
 
 # NIM   : 311810030
