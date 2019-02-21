@@ -31,7 +31,7 @@
 
 ## Penjelasan Program
 
-  1. *print ('Menampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')* Untuk Menampilkan atau Mencetak kalimat *Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5
+  1. *print ('Menampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')* Untuk Menampilkan atau Mencetak kalimat Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5
   2. *jumlah =int (input( " Masukan Jumlah n : "))* Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
   3. *import random* Untuk pengulangan secara acak
   4. *for i in range (jumlah) :* Untuk Pengulangan dengan range jumlah
@@ -40,8 +40,8 @@
 ## Hasil Program
 
 ![latihan 1 py hasil](https://user-images.githubusercontent.com/46749030/53199405-94e81780-3651-11e9-8125-2c1b57d33a3e.jpg)
-
-
+#
+#
 #
 #
 
@@ -92,6 +92,8 @@
 
 ![latihan 2 hasil](https://user-images.githubusercontent.com/46749030/53199408-96194480-3651-11e9-9217-bbba87003acb.jpg)
 
+#
+#
 #
 #
 
@@ -157,7 +159,7 @@
 
 ![program 1 py hasil](https://user-images.githubusercontent.com/46749030/53199412-97e30800-3651-11e9-8ea3-e42577580471.jpg)
 
-
+#
 #
 # NAMA  : WAHYU EKA SAPUTRA
 
@@ -165,5 +167,5 @@
 
 # KELAS : TI.18 B.1
 
-
+#
 ![sekian](https://user-images.githubusercontent.com/46749030/53198559-40439d00-364f-11e9-804a-a4774ffcf7f5.jpg)
